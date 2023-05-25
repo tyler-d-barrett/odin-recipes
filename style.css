@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: white;
+}
+
+ul {
+    background-color: lavender;
+}
+
+li a{
+    font-weight: 500;
+}
+
+li {
+    font-weight: 800;
+}
+
+h2 {
+    color: gray;
+}
+
